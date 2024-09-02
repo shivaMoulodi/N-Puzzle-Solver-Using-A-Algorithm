@@ -26,7 +26,7 @@ This project implements a solver for the N-puzzle problem using the A* search al
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shivaMoulodi/n-puzzle-solver.git
+   git clone https://github.com/shivaMoulodi/N-Puzzle-Solver-Using-A-Algorithm.git
    ```
 2. Navigate to the project directory:
    ```bash
